@@ -11,7 +11,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'devise'
-gem 'figaro', '>= 1.0.0.rc1'
+gem 'figaro', github: 'sealocal/figaro'
 gem 'high_voltage'
 gem 'pg'
 gem 'simple_form'
